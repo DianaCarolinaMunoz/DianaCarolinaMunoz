@@ -1,6 +1,6 @@
-### Hola, soy Diana Carolina Munoz 👋
+### Hi, I am Diana Carolina Munoz 👋
 
-I am a Software Specialist, as well as a master's student in Software Engineering. I’m currently working on an web application to perform physiotherapies for patients recovering from COVID 19 using my javascript skills and learning about the particularities of REACT. I also work for a software company ACI WorldWide, knowing the world of electronic payments using C++ code.
+I am a Software Specialist, as well as a master's student in Software Engineering. I’m currently working on in my master's thesis for a web application to perform physiotherapies for patients recovering from COVID 19 using my javascript skills and learning about the particularities of REACT. I also work for a software company ACI WorldWide, knowing the world of electronic payments specially on BASE24-eps products using C++ code.
 
 ## Find me
 
